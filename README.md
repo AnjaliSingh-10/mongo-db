@@ -20,3 +20,12 @@ JSON-like documents. We will use the official MongoDB Node.js driver to interact
 5.Connection Pooling: Use connection pooling to manage multiple database connections efficiently.
 
 6.Security: Ensure your MongoDB instance is secure. Use authentication, IP whitelisting, and encryption where necessary.
+
+## Additional Resources
+MongoDB Node.js Driver Documentation
+
+MongoDB CRUD Operations Documentation
+
+Node.js Official Website
+
+MongoDB University
